@@ -12,4 +12,5 @@ Focused on automation, intelligence, and scalable infrastructure.
 - 🌱 Exploring the intersection of blockchain technology and AI  
 
 Contributor & Founder @ **Twilight Labs**  
+Make Sure to leave a star :)
 Building better systems, one iteration at a time.
