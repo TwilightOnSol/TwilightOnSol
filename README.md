@@ -21,7 +21,7 @@ I specialize in **ML/AI and data engineering** with a keen interest in **buildin
 <!--START_SECTION:projects-->
 
 - **Solar Mining**: Mining Crypto With The Sun. [Link](https://github.com/TwilightOnSol/SolarMinerProject)
-- **Twilight Labs**: A brief description of Project Beta. [Link](https://github.com/TwilightOnSol/project-beta)
+- **Twilight Labs**: Modern Quant Solutions. [Link](https://github.com/TwilightLabsCo)
 
 <!--END_SECTION:projects-->
 
@@ -54,11 +54,3 @@ I specialize in **ML/AI and data engineering** with a keen interest in **buildin
 (This section will be dynamically updated with current activities)
 
 <!--END_SECTION:now-->
-
-## 📬 Get in Touch
-
-- [GitHub](https://github.com/TwilightOnSol)
-- [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-
----
