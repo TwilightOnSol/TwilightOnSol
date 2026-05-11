@@ -1,15 +1,7 @@
-## ✨ About Me ✨
+# TwilightOnSol
 
-👋 Hey, I'm Jax (aka Twilight)
+## Overview
+This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
 
-I build systems, break assumptions, and make things happen.  
-Focused on automation, intelligence, and scalable infrastructure.
-
-- 💻 Automation, autonomous systems, and AI-driven code  
-- 🧠 Strong believer in learning by doing  
-- 🛠 Actively building and experimenting with personal projects  
-- 📊 Quantitative finance as a foundation for future systems  
-- 🌱 Exploring the intersection of blockchain technology and AI  
-
-Contributor & Founder @ **Twilight Labs**  
-Building better systems, one iteration at a time.
+## Project Structure
+- README.md
