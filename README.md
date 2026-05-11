@@ -20,8 +20,8 @@ I specialize in **ML/AI and data engineering** with a keen interest in **buildin
 
 <!--START_SECTION:projects-->
 
-- **Project Alpha**: A brief description of Project Alpha. [Link](https://github.com/TwilightOnSol/project-alpha)
-- **Project Beta**: A brief description of Project Beta. [Link](https://github.com/TwilightOnSol/project-beta)
+- **Solar Mining**: Mining Crypto With The Sun. [Link](https://github.com/TwilightOnSol/SolarMinerProject)
+- **Twilight Labs**: A brief description of Project Beta. [Link](https://github.com/TwilightOnSol/project-beta)
 
 <!--END_SECTION:projects-->
 
