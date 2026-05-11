@@ -29,11 +29,11 @@ I specialize in **ML/AI and data engineering** with a keen interest in **buildin
 
 | Category        | Technologies                                          |
 |-----------------|-------------------------------------------------------|
-| **Languages**   | Python, JavaScript, TypeScript, Java, Kotlin, Lua     |
-| **ML / AI**     | PyTorch, TensorFlow, scikit-learn, HuggingFace        |
-| **Data**        | Pandas, NumPy, SQL, Spark                             |
-| **Infra**       | Docker, Kubernetes                                    |
-| **Other**       | Git, GitHub Actions, REST APIs                        |
+| **Languages**   | Python, JavaScript, CSS, Java, Lua     |
+| **ML / AI**     | Openclaw, ChatGPT, Manus, HuggingFace        |
+| **Data**        | Google Sheets, NumPy, Google Drive, Git LFS                             |
+| **Infra**       | Docker, Proxmox                                    |
+| **Other**       | Git, GitHub Actions, Roblox Studio
 
 ## 📊 GitHub Stats
 
